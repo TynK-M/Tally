@@ -134,6 +134,9 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper
+mvnw
+mvnw.cmd
 
 ### Windows ###
 # Windows thumbnail cache files
@@ -199,3 +202,7 @@ README.html
 *.iml
 .idea
 .exercism
+
+#Aggiunte personali
+.gitattributes
+application.properties
